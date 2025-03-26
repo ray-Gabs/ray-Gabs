@@ -1,5 +1,6 @@
 <img src="aiko_Spin.gif" alt="spinning me" width="20%">
-# 💫 About Me:
+
+## 💫 About Me:
 Passionate about software development and constantly exploring new technologies. Skilled in multiple programming languages, web development, and cloud computing. Always eager to learn and build innovative projects.
 
 
