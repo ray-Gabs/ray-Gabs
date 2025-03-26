@@ -53,6 +53,11 @@ Just an indie full-stack developer and aspiring content creator, passionate abou
 #
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTU2ZjgwcjNodXBpNTY3cXB4c2RtOWRyNmh1djV0cjNvbXF5MnNtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1stkgpyKSsy1QzKZAg/giphy.gif"  />
 
-![ray-Gabs's GitHub stats](https://github-readme-stats.vercel.app/api?username=ray-Gabs&theme=darcula&show_icons=true)
+
+<div align="center">
+  <img width="38%" src="https://github-readme-stats.vercel.app/api?username=ray-Gabs&show_icons=true&theme=darcula&rank_icon=github&border_radius=10" alt="readme stats" />
+  <a href="https://github.com/ray-Gabs/github-readme-streak-stats"><img width="40%" src="https://streak-stats.demolab.com?user=selerqc&theme=radical" alt="GitHub Streak"/></a>
+  <img width="38% align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ray-Gabs&hide=HTML&langs_count=8&layout=compact&theme=darcula&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
 
