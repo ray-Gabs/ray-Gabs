@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Creator)`**
  <br>
-Just an indie full-stack developer and aspiring content creator, passionate about building innovative web apps, developing games, and sharing knowledge along the way. I love experimenting with new technologies, crafting seamless user experiences, and creating engaging content. My projects come to life through hands-on development—whether it's coding dynamic applications, designing immersive game worlds, or fine-tuning the smallest details to create polished and functional experiences. I enjoy the entire process, from brainstorming ideas to bringing them to reality with clean code, creative design, and collaboration.
+Just an indie full-stack developer and aspiring content creator, passionate about building innovative web apps, developing games, and sharing knowledge along the way. I love experimenting with new technologies, crafting seamless user experiences, and creating engaging content. My projects come to life through hands-on development, whether it's coding dynamic applications, designing immersive game worlds, or fine-tuning the smallest details to create polished and functional experiences. I enjoy the entire process, from brainstorming ideas to bringing them to reality with clean code, creative design, and collaboration.
 
 ###
 
@@ -42,11 +42,17 @@ Just an indie full-stack developer and aspiring content creator, passionate abou
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDb logo"  />
   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" height="30" alt="React logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/notion/notion-original.svg" height="30" alt="Notion logo"  />
+  <img width="12" />
 </div>
 
 #
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTU2ZjgwcjNodXBpNTY3cXB4c2RtOWRyNmh1djV0cjNvbXF5MnNtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1stkgpyKSsy1QzKZAg/giphy.gif"  />
 
-![ray-Gabs's GitHub stats](https://github-readme-stats.vercel.app/api?username=ray-Gabs&theme=dark&show_icons=true)
+![ray-Gabs's GitHub stats](https://github-readme-stats.vercel.app/api?username=ray-Gabs&theme=darcula&show_icons=true)
 
 
